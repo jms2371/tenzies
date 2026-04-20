@@ -54,6 +54,9 @@ main {
 button {
     font-family: Karla, sans-serif;
     cursor: pointer;
+    -webkit-appearance: none;
+    appearance: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .dice-container button {
